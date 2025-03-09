@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Maya Thompson 👋
 
-<!--
-**Mayamariaruth/Mayamariaruth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 What I'm Currently Working On
+- A portfolio website to showcase my projects
+- A recipe website that helps users find recipes based on the ingredients they already have at home
+- A distribution business selling famous Korean skincare products!
 
-Here are some ideas to get you started:
+### 📚 Currently Learning
+- JavaScript & API integration (Enhancing my skills in frontend interactivity)
+- CSS Frameworks (Tailwind and Bootstrap)
+- Korean language 🇰🇷 (My partner is Korean!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun Fact
+I used to work as a Travel Agent, coordinating bookings for groups as large as 1,500 people!
