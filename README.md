@@ -5,8 +5,8 @@
 - A new app, meant to revolutionize an industry.
 
 ### 📚 Currently Learning
-- JavaScript & API integration (Enhancing my skills in frontend interactivity)
-- CSS Frameworks (Tailwind and Bootstrap)
+- JavaScript frameworks (Enhancing my skills in frontend interactivity)
+- How to build an app!
 
 ### ⚡ Fun Fact
-I used to work as a Travel Agent, coordinating bookings for groups as large as 1,500 people!
+I work in retail and I love it! I get to use my brain when I code and my personality at work, perfect combo 👍
