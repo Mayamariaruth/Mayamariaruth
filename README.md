@@ -1,12 +1,17 @@
 ## Hi, I'm Maya Thompson 👋
 
 ### 💻 What I'm Currently Working On
-- Whatever project my school sends my way!
 - A new app, meant to revolutionize an industry.
 
 ### 📚 Currently Learning
-- JavaScript frameworks (Enhancing my skills in frontend interactivity)
-- How to build an app!
+- JavaScript and modern JavaScript frameworks to improve frontend interactivity
+- App development concepts, from planning and structure to implementation
+- Writing cleaner, more maintainable code as I grow as a developer
+
+### 🛠️ Skills & Interests
+- Frontend development (HTML, CSS, JavaScript)
+- Learning-based problem solving and debugging
+- User-focused design and functionality
 
 ### ⚡ Fun Fact
-I work in retail and I love it! I get to use my brain when I code and my personality at work, perfect combo 👍
+I work in retail and genuinely enjoy it — I get to balance logical thinking when I code with people skills at work. Best of both worlds 👍
